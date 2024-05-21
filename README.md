@@ -9,7 +9,6 @@ This project is a Python-based calculator built using the Kivy framework. Kivy i
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
