@@ -26,7 +26,7 @@ To run the Python Calculator, you need to have Python and Kivy installed. Follow
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/python_calculator.git
+    git clone https://github.com/stbbash/python_calculator.git
     cd python_calculator
     ```
 
